@@ -1,0 +1,2 @@
+rootProject.name = "Clarius Mobile API"
+include ':app'
